@@ -1,7 +1,9 @@
 # Power_BI_Professional_Survey_Dashboard
 **Project:** Power BI Professional Survey Data Cleaning and Dashboard of Data Scientist and Data Analyst
+
 **Technical Overview:**
 This project leveraged Power BI to conduct a comprehensive analysis of survey data from data professionals, with a focus on Data Scientists and Data Analysts. The project workflow encompassed:
+
 **1. Data Ingestion and Preprocessing:**
 A. Utilized Power Query M for advanced data cleaning and transformation
 B. Implemented custom functions for data standardization and error handling
